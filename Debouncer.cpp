@@ -1,7 +1,5 @@
 /*
  * Debouncer.c
- *
- * Created: 12/31/2016 3:25:52 PM
  *  Author: hux
  */ 
 

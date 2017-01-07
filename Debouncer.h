@@ -1,8 +1,6 @@
 /*
  * Debouncer.h
- *
- * Created: 1/1/2017 7:11:57 PM
- *  Author: hux
+ *  Author: HX-Rd
  */ 
 
 #ifndef DEBOUNCER_H_

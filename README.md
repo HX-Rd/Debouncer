@@ -34,7 +34,7 @@ void setupTimer0()
 
 ISR(TIMER0_OVF_vect)
 {
-  Debouncer::bank(&PINB, PINB1);  // Read pin 1 in bank B
+	Debouncer::bank(&PINB, PINB1);  // Read pin 1 in bank B
 	Debouncer::bank(&PINC);         // Read pins in bank c
 }
 

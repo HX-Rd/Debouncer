@@ -5,12 +5,6 @@
  *  Author: hux
  */ 
 
-/*
- TODO:
-	1) historyArray has to be multidementional so i can use multiple banks
-	3) State has to be an array of 3 ( the banks )
-*/
-
 #ifndef DEBOUNCER_H_
 #define DEBOUNCER_H_
 
